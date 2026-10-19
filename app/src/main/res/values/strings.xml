@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">تلفزتنا</string>
+    <string name="app_tagline">بث مباشر للقنوات التونسية</string>
+    <string name="search_placeholder">ابحث عن قناة أو برنامج…</string>
+    <string name="category_all">الكل</string>
+    <string name="category_national">الوطنية والأخبار</string>
+    <string name="category_variety">المنوعات والدراما</string>
+    <string name="category_culture">الثقافة والشباب</string>
+    <string name="category_radio_visual">إذاعات مرئية ومباشرة</string>
+    <string name="category_religious">دينية واجتماعية</string>
+    <string name="tab_channels">القنوات</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="tab_guide">دليل البرامج</string>
+    <string name="tab_radio">الإذاعات المباشرة</string>
+    <string name="live_badge">مباشر</string>
+    <string name="now_playing">يعرض الآن</string>
+    <string name="next_program">البرنامج القادم</string>
+    <string name="servers">السيرفرات المتاحة</string>
+    <string name="server_primary">سيرفر HD رئيسي</string>
+    <string name="server_backup">سيرفر بديل 1</string>
+    <string name="server_fast">سيرفر خفيف (توفير البيانات)</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="error_stream">تعذر تشغيل البث، جاري التبديل لسيرفر بديل…</string>
+    <string name="quality">الجودة</string>
+    <string name="aspect_ratio">أبعاد الشاشة</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="pip">نافذة مصغرة</string>
+</resources>

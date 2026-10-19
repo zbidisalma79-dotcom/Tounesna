@@ -1,0 +1,6 @@
+{
+  "name": "تلفزتنا",
+  "description": "تطبيق البث المباشر للقنوات التلفزية والإذاعية التونسية مجانا وبأعلى جودة وتصميم تونسي أصيل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
